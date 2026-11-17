@@ -49,5 +49,3 @@ Pastikan perangkat Anda sudah terpasang:
    ```bash
    mvn clean javafx:run
    ```
-
-Setelah perintah di atas dijalankan, jendela aplikasi Katalog Produk UPI Store akan terbuka secara otomatis.
